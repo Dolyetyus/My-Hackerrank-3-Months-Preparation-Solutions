@@ -8,6 +8,9 @@
 
 using namespace std;
 
+//It says that this program fails the tests but the output is exactly 
+//the same as it should for all tests including whitespace, idk
+
 int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     for (string line; getline(cin, line);) {
