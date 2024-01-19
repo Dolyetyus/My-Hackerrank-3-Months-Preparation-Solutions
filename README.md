@@ -26,36 +26,36 @@ Here I share my solutions for Hackerrank's 3 Month's Preparation Kit, the questi
 
 **Week 5:**
 - [x] Problems solved: 8
-- [ ] Mock exam completed
+- [ ] Mock exam not completed
 
 **Week 6:**
-- [ ] Problems solved: 8
-- [ ] Mock exam completed
+- [ ] Problems solved: 1
+- [ ] Mock exam not completed
 
 **Week 7:**
-- [ ] Problems solved: 8
-- [ ] Mock exam completed
+- [ ] Problems solved: 0
+- [ ] Mock exam not completed
 
 **Week 8:**
-- [ ] Problems solved: 8
-- [ ] Mock exam completed
+- [ ] Problems solved: 0
+- [ ] Mock exam not completed
 
 **Week 9:**
-- [ ] Problems solved: 8
-- [ ] Mock exam completed
+- [ ] Problems solved: 0
+- [ ] Mock exam not completed
 
 **Week 10:**
-- [ ] Problems solved: 8
-- [ ] Mock exam completed
+- [ ] Problems solved: 0
+- [ ] Mock exam not completed
 
 **Week 11:**
-- [ ] Problems solved: 8
-- [ ] Mock exam completed
+- [ ] Problems solved: 0
+- [ ] Mock exam not completed
 
 **Week 12:**
-- [ ] Problems solved: 8
-- [ ] Mock exam completed
+- [ ] Problems solved: 0
+- [ ] Mock exam not completed
 
 **Week 13:**
-- [ ] Problems solved: 9
-- [ ] Mock exam completed
+- [ ] Problems solved: 0
+- [ ] Mock exam not completed
