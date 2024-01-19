@@ -1,9 +1,9 @@
 # My Hackerrank 3 Months Preparation Kit Solutions</br>
 </br>
 Here I share my solutions for Hackerrank's 3 Month's Preparation Kit, the questions are designed to prepare you for future interviews. I'm planning to solve all the problems in C++ first, and then in Python and maybe in Java later.</br>
-</br>
+
 [center]![GitHub stars](https://img.shields.io/github/stars/Dolyetyus/My-Hackerrank-3-Months-Preparation-Solutions?style=social) ![GitHub forks](https://img.shields.io/github/forks/Dolyetyus/My-Hackerrank-3-Months-Preparation-Solutions?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/Dolyetyus/My-Hackerrank-3-Months-Preparation-Solutions?style=social)[/center]
-</br>
+
 ------</br>
 </br>
 #### Current Progress</br>
