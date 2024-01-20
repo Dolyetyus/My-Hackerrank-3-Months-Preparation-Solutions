@@ -26,10 +26,10 @@ Here I share my solutions for Hackerrank's 3 Month's Preparation Kit, the questi
 
 **Week 5:**
 - [x] Problems solved: 8
-- [ ] Mock exam not completed
+- [x] Mock exam not completed
 
 **Week 6:**
-- [ ] Problems solved: 3
+- [ ] Problems solved: 5
 - [ ] Mock exam not completed
 
 **Week 7:**
