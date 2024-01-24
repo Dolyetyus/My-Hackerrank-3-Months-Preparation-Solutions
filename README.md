@@ -6,7 +6,7 @@ Here I share my solutions for Hackerrank's 3 Month's Preparation Kit, the questi
 
 ------
 
-#### Current Progress</br>
+#### Current Progress:</br>
 
 **Week 1:**
 - [x] Problems solved: 7
