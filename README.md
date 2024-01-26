@@ -38,11 +38,11 @@ Here I share my solutions for Hackerrank's 3 Month's Preparation Kit, the questi
 
 **Week 8:**
 - [x] Problems solved: 8
-- [x] Mock exam not completed
+- [x] Mock exam completed
 
 **Week 9:**
-- [ ] Problems solved: 1
-- [ ] Mock exam not completed
+- [x] Problems solved: 8
+- [x] Mock exam completed
 
 **Week 10:**
 - [ ] Problems solved: 0
