@@ -45,11 +45,11 @@ Here I share my solutions for Hackerrank's 3 Month's Preparation Kit, the questi
 - [x] Mock exam completed
 
 **Week 10:**
-- [ ] Problems solved: 0
+- [ ] Problems solved: 5
 - [ ] Mock exam not completed
 
 **Week 11:**
-- [ ] Problems solved: 0
+- [ ] Problems solved: 1
 - [ ] Mock exam not completed
 
 **Week 12:**
