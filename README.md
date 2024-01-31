@@ -38,7 +38,7 @@ Here I share my solutions for Hackerrank's 3 Month's Preparation Kit, the questi
 
 **Week 8:**
 - [x] Problems solved: 8
-- [x] Mock exam completed
+- [x] Mock exam completed (Hackerrank started not giving report for mock exams after week 7, idk why)
 
 **Week 9:**
 - [x] Problems solved: 8
@@ -46,10 +46,10 @@ Here I share my solutions for Hackerrank's 3 Month's Preparation Kit, the questi
 
 **Week 10:**
 - [x] Problems solved: 8
-- [ ] Mock exam not completed
+- [x] Mock exam completed
 
 **Week 11:**
-- [ ] Problems solved: 1
+- [ ] Problems solved: 4
 - [ ] Mock exam not completed
 
 **Week 12:**
