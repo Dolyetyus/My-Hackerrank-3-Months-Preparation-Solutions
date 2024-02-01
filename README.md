@@ -49,13 +49,9 @@ Here I share my solutions for Hackerrank's 3 Month's Preparation Kit, the questi
 - [x] Mock exam completed
 
 **Week 11:**
-- [ ] Problems solved: 4
-- [ ] Mock exam not completed
+- [x] Problems solved: 8
+- [x] Mock exam completed
 
 **Week 12:**
-- [ ] Problems solved: 0
-- [ ] Mock exam not completed
-
-**Week 13:**
 - [ ] Problems solved: 0
 - [ ] Mock exam not completed
