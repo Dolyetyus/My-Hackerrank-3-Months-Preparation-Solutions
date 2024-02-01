@@ -8,6 +8,8 @@ Here I share my solutions for Hackerrank's 3 Month's Preparation Kit, the questi
 
 #### Current Progress:</br>
 
+**Total number of solved questions: 103**
+</br>
 **Week 1:**
 - [x] Problems solved: 7
 - [x] Mock exam completed
@@ -53,5 +55,5 @@ Here I share my solutions for Hackerrank's 3 Month's Preparation Kit, the questi
 - [x] Mock exam completed
 
 **Week 12:**
-- [ ] Problems solved: 0
+- [ ] Problems solved: 3
 - [ ] Mock exam not completed
