@@ -6,9 +6,11 @@ string ltrim(const string &);
 string rtrim(const string &);
 
 /*
-This question is horrible, in both explanation and test cases. I can't understand the second example with "aab aac aacghgh aabghgh"
+This question is horrible, in both explanation and test cases. 
+I can't understand the second example with "aab aac aacghgh aabghgh"
 
-Why it should print aacghgh? aab is encountered first and we check if any of the other strings have it as prefix, and aabghgh have it already.
+Why it should print aacghgh? aab is encountered first and we check 
+if any of the other strings have it as prefix, and aabghgh have it already.
 
 For me, there is no clear explanation or the correct explanation of the problem.
 
@@ -42,9 +44,21 @@ void noPrefix(vector<string> words) {
 }*/
 
 /*
-Quoting from the user dqlynch: "Honestly horribly composed question. The actual problem "determine whether any of the strings are prefixes of another", or even "find all prefixes and all words they are a prefix of" is trivially easy. You can just lexicographically sort and compare each word with its next neighbors. However, the expected output is extremely vague: "Here 'abcd' is a prefix of 'abcde' and 'bcd' is a prefix of 'bcde'. Since 'abcde' is tested first, print 'abcde'."
+Quoting from the user dqlynch: "Honestly horribly composed question. 
+The actual problem "determine whether any of the strings are prefixes of another", 
+or even "find all prefixes and all words they are a prefix of" is trivially easy. 
+You can just lexicographically sort and compare each word with its next neighbors. 
+However, the expected output is extremely vague: "Here 'abcd' is a prefix of 'abcde' 
+and 'bcd' is a prefix of 'bcde'. Since 'abcde' is tested first, print 'abcde'."
 
-Looking at the test cases, this isn't consistent with either the first prefix that matches any word, the first word that has a matching prefix, or the first prefix OR word. It must only be consistent with an inefficient implementation. EDIT: figured it out, and no it doesn't make a lot of sense. It's the first MATCH for EITHER the first prefix or encapsulating word. Horrible. Hackerrank should delete this question or clean up / disambiguate the output requirements. Reverse engineering the answer key should not be part of a question. Here's an answer so you can just skip this crap: "
+Looking at the test cases, this isn't consistent with either the first prefix that matches any word, 
+the first word that has a matching prefix, or the first prefix OR word. 
+It must only be consistent with an inefficient implementation. 
+EDIT: figured it out, and no it doesn't make a lot of sense. 
+It's the first MATCH for EITHER the first prefix or encapsulating word. 
+Horrible. Hackerrank should delete this question or clean up/disambiguate the output requirements.
+Reverse engineering the answer key should not be part of a question. 
+Here's an answer so you can just skip this crap: "
 */
 bool is_prefix(string prefix, string word) {
      return prefix == word.substr(0, prefix.size());
