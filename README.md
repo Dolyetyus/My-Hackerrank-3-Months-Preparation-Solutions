@@ -7,7 +7,7 @@ Here I share my solutions for Hackerrank's 3 Month's Preparation Kit, the questi
 ------
 
 #### Current Progress:</br>
-**Total number of solved questions: 105**
+**Total number of solved questions: 104**
 </br>
 **Week 1:**
 - [x] Problems solved: 7
